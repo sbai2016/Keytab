@@ -1,10 +1,10 @@
 ## Création de Keepass 
-
+```sh
 1- Création des Keepasspour de la prod les BUs  : 
 2- Création des Keepass de la Preprod pour les Bus : 
 Connecter au KeePass 
 Click droit duplicate entry : title, name Generate clet name 
-
+```
 ## Création de Keytab  
 
 kinit svc_hdp-p_u_pprod_002_stb@INT.ADEO.COM
